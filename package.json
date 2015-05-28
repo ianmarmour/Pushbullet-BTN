@@ -1,0 +1,16 @@
+{
+  "name": "PushBullet-BTN",
+  "version": "0.0.1",
+  "description": "A simple notification integration for BTN and PushBullet",
+  "main": "lib/app.js",
+  "dependencies": {
+    "irc": "^0.3.12",
+    "pushbullet": "^1.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/app.js"
+  },
+  "author": "ther1v3r",
+  "license": "MIT"
+}
