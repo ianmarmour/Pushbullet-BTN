@@ -4,5 +4,5 @@
 
 echo "Removing Upstart Config and Install directory"
 rm -R /opt/Pushbullet-BTN
-rm /etc/init/Pushbullet-BTN
+rm /etc/init/Pushbullet-BTN.conf
 echo "If you wish to remove nodejs and npm do so with apt-get -y remove nodejs npm"
